@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AndrewSalermo/personal-website/static/css/main.073c9b0a.css",
+    "main.js": "/AndrewSalermo/personal-website/static/js/main.2268a205.js",
+    "static/js/787.02cdce0e.chunk.js": "/AndrewSalermo/personal-website/static/js/787.02cdce0e.chunk.js",
+    "static/media/logo.svg": "/AndrewSalermo/personal-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AndrewSalermo/personal-website/index.html",
+    "main.073c9b0a.css.map": "/AndrewSalermo/personal-website/static/css/main.073c9b0a.css.map",
+    "main.2268a205.js.map": "/AndrewSalermo/personal-website/static/js/main.2268a205.js.map",
+    "787.02cdce0e.chunk.js.map": "/AndrewSalermo/personal-website/static/js/787.02cdce0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2268a205.js"
+  ]
+}
